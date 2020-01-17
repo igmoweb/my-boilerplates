@@ -1,0 +1,3 @@
+[submodule "wp-gutenberg-plugin"]
+	path = wp-gutenberg-plugin
+	url = git@github.com:igmoweb/wp-gutenberg-plugin.git
