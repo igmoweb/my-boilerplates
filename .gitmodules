@@ -4,3 +4,6 @@
 [submodule "wporg-plugin"]
 	path = wporg-plugin
 	url = git://github.com/igmoweb/wporg-plugin.git
+[submodule "react-app-context"]
+	path = react-app-context
+	url = git://github.com/igmoweb/react-app-context.git
